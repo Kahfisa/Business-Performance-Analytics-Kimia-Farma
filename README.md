@@ -30,7 +30,7 @@ This project is part of the Virtual Project-Based Internship program organized b
 
 
 ## Dashboard Preview
-[Dashboard Business Performance Analytics Kimia Farma]([http://handlebarsjs.com/](https://lookerstudio.google.com/reporting/baa60af9-be27-41bf-834c-b326d73f702b))
+[Dashboard Business Performance Analytics Kimia Farma](https://lookerstudio.google.com/reporting/baa60af9-be27-41bf-834c-b326d73f702b)
 
 ![image](https://github.com/user-attachments/assets/59bf092c-8cfe-4b62-af68-819857536cae)
 
