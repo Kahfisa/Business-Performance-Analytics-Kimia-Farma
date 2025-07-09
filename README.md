@@ -32,7 +32,8 @@ This project is part of the Virtual Project-Based Internship program organized b
 ## Dashboard Preview
 [Dashboard Business Performance Analytics Kimia Farma](https://lookerstudio.google.com/reporting/baa60af9-be27-41bf-834c-b326d73f702b)
 
-![image](https://github.com/user-attachments/assets/63e1fcee-2dd5-4904-b54a-75124f8c62dc)
+![image](https://github.com/user-attachments/assets/8d13d37d-a3ae-44e7-b416-78b444b2ff23)
+
 
 ## Analysis
 - Kimia Farma's monthly revenue shows very stable from 2020 to 2023, ranging from 6.2 Billion to 6.9 Billion Rupiah per month, with no significant growth or drastic decline each year. February is consistently the month with the lowest revenue.
