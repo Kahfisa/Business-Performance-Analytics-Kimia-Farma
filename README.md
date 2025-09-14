@@ -23,6 +23,14 @@ This project is part of the Virtual Project-Based Internship program organized b
 |kf_product          |Product details including ID, name, category, and price.                 |product_id, product_name, product_category, price                                    |
 
 
+## Business Question
+- What is the trend in Kimia Farma's revenue growth from year to year, and are there any significant patterns of increase or decrease?
+- How is Kimia Farma's total profit distributed across each province in Indonesia, and which regions are the largest and smallest profit centers?
+- Which product has the highest number of purchases?
+- Which provinces are in the top 5 based on total transactions and net sales?
+- Which branch has the highest rating, but low transaction rating?
+
+
 ## Process
 - Process raw data using SQL in BigQuery to clean the data and ensure it is ready for analysis.
 - Integrate processed data from Google BigQuery into Google Looker Studio.
@@ -31,15 +39,21 @@ This project is part of the Virtual Project-Based Internship program organized b
 
 ## Dashboard Preview
 
-<img width="1197" height="897" alt="image" src="https://github.com/user-attachments/assets/49bb7af5-ae1e-425d-9b8e-327c47ec9112" />
+<img width="1198" height="897" alt="image" src="https://github.com/user-attachments/assets/60de2662-9417-46ef-9bfc-dc2834e7f630" />
 
 
 ## Insight
-- Kimia Farma profit has remained stable over the past 4 years without significant growth. However, from 2021 to 2023, the month of February consistently recorded lower profit compared to other months. Addressing this decline presents a valuable opportunity to drive growth amid the ongoing profit stagnation.
-- West Java is Kimia Farma core market as it accounts for 94.9 Billion Rupiah in revenue. While this shows success in the region. However, it may also pose a risk in the event of a market shift in West Java. Therefore, it is important to analyze the success factors in West Java so that they can be replicated or adapted in other lower performing provinces, so as to increase transactions and revenue in those provinces.
-- The high demand for Psycholeptics, Hypnotics, and Sedatives at 134.8K out of a total of eight products shows the increasing trend of anxiety disorders in society. Kimia Farma can respond to this by launching natural herbal medicines or supplements that help with Calm, reduce anxiety, or help with sleep, providing an alternative for consumers who wish to avoid the side effects of chemical drugs.
-- Kimia Farma has succeeded in creating a positive physical experience at several branches by getting a rating of 5. However, the transaction process at several branches does not satisfy customers, so the transaction process needs to be improved. These improvements can increase overall customer satisfaction and even loyalty.
+- 
+- 
+- 
+- 
 
+
+## Recommendation
+-
+-
+-
+-
 
 
 
