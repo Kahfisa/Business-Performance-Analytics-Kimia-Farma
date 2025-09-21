@@ -5,7 +5,7 @@ This project is part of the Virtual Project-Based Internship program organized b
 
 
 ## Objective
-- Building analysis tables (data marts) to support dashboard visualization.
+- Building analysis tables to support dashboard visualization.
 - Designing and delivering an interactive dashboard to analyze and monitor business performance.
 
 
@@ -32,7 +32,7 @@ This project is part of the Virtual Project-Based Internship program organized b
 
 
 ## Process
-- Process raw data using SQL in BigQuery to clean the data and ensure it is ready for analysis.
+- Process raw data using SQL in BigQuery to processing data and ensure it is ready for analysis.
 - Integrate processed data from Google BigQuery into Google Looker Studio.
 - Developing an interactive dashboard to analyze business performance
 
