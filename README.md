@@ -22,6 +22,10 @@ This project is part of the Virtual Project-Based Internship program organized b
 |kf_branch_office    |Location and identity details of each Kimia Farma branch office.         |branch_id, branch_category, branch_name, city, province, branch_rating                                    |
 |kf_product          |Product details including ID, name, category, and price.                 |product_id, product_name, product_category, price                                                         |
 
+## Entity Relationship Diagram
+
+<img width="1096" height="753" alt="image" src="https://github.com/user-attachments/assets/d82743a2-bbb9-48b0-ae37-75973cf6eb61" />
+
 
 ## Business Question
 - What is the trend in Kimia Farma's revenue growth from year to year, and are there any significant patterns of increase or decrease?
