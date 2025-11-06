@@ -39,7 +39,7 @@ This project is part of the Virtual Project-Based Internship program organized b
 
 ## Dashboard Preview
 
-<img width="1198" height="897" alt="image" src="https://github.com/user-attachments/assets/60de2662-9417-46ef-9bfc-dc2834e7f630" />
+<img width="1198" height="898" alt="image" src="https://github.com/user-attachments/assets/6b5153c9-e4d9-4a8f-b3e1-a7385e94f777" />
 
 
 ## Insight
