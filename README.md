@@ -1,7 +1,9 @@
 # Business-Performance-Analytics-Kimia-Farma
 
 ## Introduction
-This project is part of the Virtual Project-Based Internship program organized by Rakamin Academy in collaboration with Kimia Farma. In this program, I took on the role of a Big Data Analyst, responsible for performing data analysis and creating visualizations.
+Kimia Farma operates an extensive pharmacy network across Indonesia and manages a large volume of daily sales transactions across multiple branches and product categories. However, the growing amount of operational and transactional data makes it challenging for the company to consistently monitor its overall business performance. Without a structured analytical approach, it becomes difficult to identify revenue trends, evaluate regional contributions, understand product demand, and assess branch-level service performance.
+
+This project focuses on developing a Business Performance Analytics dashboard that transforms raw transactional data into actionable insights. By leveraging data processing in Google BigQuery and visualization in Looker Studio, the dashboard enables stakeholders to monitor revenue growth, analyze regional profitability, identify high-demand products, and evaluate branch performance to support more informed, data-driven business decisions.
 
 
 ## Objective
@@ -21,6 +23,9 @@ This project is part of the Virtual Project-Based Internship program organized b
 |kf_inventory        |Product stock availability across branch offices.                        |inventory_id, branch_id, product_id, product_name, opname_stock                                           |
 |kf_branch_office    |Location and identity details of each Kimia Farma branch office.         |branch_id, branch_category, branch_name, city, province, branch_rating                                    |
 |kf_product          |Product details including ID, name, category, and price.                 |product_id, product_name, product_category, price                                                         |
+## Entity Relationsip Diagram
+
+<img width="840" height="706" alt="Entity Relationship Diagram (ERD)" src="https://github.com/user-attachments/assets/e1909a11-dbaa-4850-89b2-beb82a4f7d63" />
 
 
 ## Business Question
