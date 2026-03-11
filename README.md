@@ -4,11 +4,6 @@
 Kimia Farma operates an extensive pharmacy network across Indonesia and manages a large volume of daily sales transactions across multiple branches and product categories. However, the growing amount of operational and transactional data makes it challenging for the company to consistently monitor its overall business performance. Therefore, this project aims to analyze sales trends, evaluate regional contributions, understand product demand, and assess branch level service performance using Google BigQuery for data processing and Google Looker Studio for visualization to support data-driven decision making.
 
 
-## Objective
-- Building analysis tables to support dashboard visualization.
-- Designing and delivering an interactive dashboard to analyze and monitor business performance.
-
-
 ## Tools
 - Google BigQuery
 - Google Looker Studio
