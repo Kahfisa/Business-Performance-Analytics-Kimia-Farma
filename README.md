@@ -1,9 +1,7 @@
 # Business-Performance-Analytics-Kimia-Farma
 
 ## Introduction
-Kimia Farma operates an extensive pharmacy network across Indonesia and manages a large volume of daily sales transactions across multiple branches and product categories. However, the growing amount of operational and transactional data makes it challenging for the company to consistently monitor its overall business performance. Without a structured analytical approach, it becomes difficult to identify revenue trends, evaluate regional contributions, understand product demand, and assess branch-level service performance.
-
-This project focuses on developing a Business Performance Analytics dashboard that transforms raw transactional data into actionable insights. By leveraging data processing in Google BigQuery and visualization in Looker Studio, the dashboard enables stakeholders to monitor revenue growth, analyze regional profitability, identify high-demand products, and evaluate branch performance to support more informed, data-driven business decisions.
+Kimia Farma operates an extensive pharmacy network across Indonesia and manages a large volume of daily sales transactions across multiple branches and product categories. However, the growing amount of operational and transactional data makes it challenging for the company to consistently monitor its overall business performance. Therefore, this project aims to analyze sales trends, evaluate regional contributions, understand product demand, and assess branch level service performance using Google BigQuery for data processing and Google Looker Studio for visualization to support data-driven decision making.
 
 
 ## Objective
@@ -29,10 +27,10 @@ This project focuses on developing a Business Performance Analytics dashboard th
 
 
 ## Business Question
-- What is the trend in Kimia Farma's revenue growth from year to year, and are there any significant patterns of increase or decrease?
+- What is the trend in Kimia Farma's sales growth from year to year, and are there any significant patterns of increase or decrease?
 - How is Kimia Farma's total profit distributed across each province in Indonesia, and which regions are the largest and smallest profit centers?
 - Which product has the highest number of purchases?
-- Which provinces are in the top 5 based on total transactions and net sales?
+- Which provinces are in the top 5 based on total transactions and sales?
 - Which branch has the highest rating, but low transaction rating?
 
 
@@ -48,7 +46,7 @@ This project focuses on developing a Business Performance Analytics dashboard th
 
 
 ## Insight
-- Kimia Farma’s revenue has remained stable over the past four years without significant growth. During the period 2021–2023, February consistently recorded lower profit compared to other months, although the decline was relatively small. Although not significant, the consistent decline each February still indicates a potential loss of annual growth opportunities.
+- Kimia Farma sales has remained stable over the past four years without significant growth. During the period 2021–2023, February consistently recorded lower profit compared to other months, although the decline was relatively small. Although not significant, the consistent decline each February still indicates a potential loss of annual growth opportunities.
 - West Java is Kimia Farma’s core market with 48.5 thousand transactions, net sales of Rp23.2 billion, and net profit of Rp6.6 billion, supported by a network of 510 branches. The success in West Java demonstrates the significant potential of regions with an extensive branch network.
 - Psycholeptic, hypnotic, and sedative products recorded high demand of 32,744 thousand units across eight product types. This indicates a growing consumer need related to anxiety and sleep, prompting the company to ensure adequate stock availability and optimize distribution strategies to meet the demand.
 - Kimia Farma has successfully created positive experiences in several branches with a rating of 5, but there are branches where the transaction process was rated less satisfactory with a rating of 3. This difference in customer experience across branches may reduce overall customer satisfaction and hinder long-term loyalty.
