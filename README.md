@@ -1,8 +1,7 @@
 # Business-Performance-Analytics-Kimia-Farma
 
 ## Introduction
-Kimia Farma operates an extensive pharmacy network across Indonesia and manages a large volume of daily sales transactions across multiple branches and product categories. However, the growing amount of operational and transactional data makes it challenging for the company to consistently monitor its overall business performance. Therefore, this project aims to analyze sales trends, evaluate regional contributions, understand product demand, and assess branch level service performance using Google BigQuery for data processing and Google Looker Studio for visualization to support data-driven decision making.
-
+Kimia Farma operates an extensive pharmacy network across Indonesia and handles a large volume of daily sales transactions across multiple branches and product categories, which can be leveraged to support informed decision-making and continuously monitor overall business performance. Therefore, this project aims to analyze sales Trend and growth patterns, profit distribution by province, top performing provinces, top selling products, branch performance and customer satisfaction using Google BigQuery for data processing and Google Looker Studio for visualization to support data-driven decision making.
 
 ## Tools
 - Google BigQuery
